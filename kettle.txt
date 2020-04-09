@@ -1,0 +1,8 @@
+kettle国内镜像下载
+7.1版本
+http://mirror.bit.edu.cn/pentaho/Data%20Integration/
+
+8.2版本
+http://mirror.bit.edu.cn/pentaho/Pentaho%208.2/client-tools/
+
+pdi-ce-8.2.0.0-342.zip 15-Nov-2018 09:26 1.1G
